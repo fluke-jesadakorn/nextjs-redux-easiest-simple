@@ -5,7 +5,7 @@ import Counter from '../component/Counter';
 const Index = () => {
   return (
     <div>
-    <Counter/>;
+      <Counter />
     </div>
   );
 }

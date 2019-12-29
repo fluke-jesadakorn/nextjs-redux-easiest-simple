@@ -1,4 +1,3 @@
-import React from 'React';
 import { useActionCounter } from '../redux/action';
 
 const Counter = () => {

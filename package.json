@@ -1,13 +1,14 @@
 {
-  "name": "crypto-bot",
-  "version": "0.1.0",
+  "name": "nextjs-redux-easiest-simple",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "node server.js",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
   "dependencies": {
+    "express": "^4.17.1",
     "next": "9.1.6",
     "react": "16.12.0",
     "react-dom": "16.12.0",
